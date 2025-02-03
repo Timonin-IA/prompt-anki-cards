@@ -1,0 +1,10 @@
+Основы Git: Как инициализировать новый репозиторий?	<b style="color: blue;">git init</b>
+Основы Git: Для чего нужна команда <b style="color: blue;">git init</b>?	Инициализация нового репозитория.
+Основы Git: Как проверить статус репозитория?	<b style="color: blue;">git status</b>
+Основы Git: Для чего нужна команда <b style="color: blue;">git status</b>?	Проверка состояния репозитория.
+Основы Git: Как добавить файлы в индекс?	<b style="color: blue;">git add <имя_файла></b>
+Основы Git: Для чего нужна команда <b style="color: blue;">git add</b>?	Добавление файлов в индекс.
+Основы Git: Как зафиксировать изменения в репозитории?	<b style="color: blue;">git commit -m "сообщение"</b>
+Основы Git: Для чего нужна команда <b style="color: blue;">git commit</b>?	Фиксация изменений в репозитории.
+Основы Git: Как просмотреть историю коммитов?	<b style="color: blue;">git log</b>
+Основы Git: Для чего нужна команда <b style="color: blue;">git log</b>?	Просмотр истории коммитов.
