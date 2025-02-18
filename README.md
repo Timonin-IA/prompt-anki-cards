@@ -10,7 +10,7 @@ prompt's work in DeepSeek.
 The prompt is copied and pasted as the first LLM message, with
 the variable values changed.
 For this version, the list of variables is given below:
-- {theme} - card theme
+- {topic} - card topic
 - {number} - the number of cards
 - {result} is the format for providing the result, at the moment it is suggested
 to leave it unchanged.
