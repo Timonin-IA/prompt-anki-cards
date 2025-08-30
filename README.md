@@ -3,7 +3,7 @@ LLM prompt for creating cards in Anki
 
 1. Brief description
 This tool is used for automated creation of cards in Anki
-using LLMs such as ChatGPT, DeepSeek and others. Basically, the author tested
+using LLMs such as ChatGPT, DeepSeek and others. Mainly, the author tested
 prompt's work in DeepSeek.
 
 2. Use
